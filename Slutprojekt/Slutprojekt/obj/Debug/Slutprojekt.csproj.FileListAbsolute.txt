@@ -1,0 +1,11 @@
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\bin\Debug\Slutprojekt.exe.config
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\bin\Debug\Slutprojekt.exe
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\bin\Debug\Slutprojekt.pdb
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.csproj.AssemblyReference.cache
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.Form1.resources
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.Form2.resources
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.Properties.Resources.resources
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.csproj.GenerateResource.cache
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.csproj.CoreCompileInputs.cache
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.exe
+C:\Users\elmerc22\source\repos\Slutprojekt\Slutprojekt\obj\Debug\Slutprojekt.pdb
